@@ -24,7 +24,7 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 
 def classification(img):
     # model = load_model('my_model.h5')
-    model = load_model("model_01.h5")
+    model = load_model("model_792023.h5")
     # img_new = image.load_img(img, target_size=(224, 224))
     # x = image.img_to_array(img_new)
     # x = np.expand_dims(x, axis=0)
