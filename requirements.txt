@@ -5,7 +5,7 @@ tensorflow
 matplotlib
 shutils
 scipy
-cv2
+opencv-python
 Pillow
 Py-OS
 zip-files
